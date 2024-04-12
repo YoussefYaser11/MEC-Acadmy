@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgb(19, 19, 83);
+}
+html{
+    scroll-padding-top: 50px;
+    scroll-behavior: smooth;
+}
+header{
+    background-color: rgb(19, 19, 83);
+    height: 100vh;
+    width: 100%;
+    margin-top: 65px;
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}
+footer{
+    background-color: rgb(19, 19, 83);
+}
+.icon:hover{
+    color:white;
+}
